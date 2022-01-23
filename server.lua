@@ -1,15 +1,3 @@
---[[
----------------------------------------------------
-LUXART VEHICLE CONTROL (FOR FIVEM)
----------------------------------------------------
-Last revision: NOV 07 2016
-Coded by Lt.Caine
----------------------------------------------------
-NOTES
-	
----------------------------------------------------
-]]
-
 
 RegisterServerEvent("lvc_TogDfltSrnMuted_s")
 AddEventHandler("lvc_TogDfltSrnMuted_s", function(toggle)
