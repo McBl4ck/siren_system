@@ -8,3 +8,7 @@ Q = Emergency Lights
 ALT = Turn on sound
 R = Next Sound
 E = Horn
+
+# FRAMEWORK
+
+This is a standealone scipt but i tested it in esx framework
