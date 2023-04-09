@@ -11,4 +11,4 @@ E = Horn
 
 # FRAMEWORK
 
-This is a standealone scipt but i tested it in esx framework
+This is a standealone script
